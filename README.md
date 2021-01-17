@@ -7,7 +7,7 @@ I'm <a href="https://yogeshiitm.github.io" target="_blank">Yogesh</a>, a second-
 - 🌱 Looking forward to learning new skills!
 - 👯 Connect with me on <a href="https://www.linkedin.com/in/yogeshiitm/" target="_blank">LinkedIn</a>.
 - 👨🏻‍💻 Find my recent work here: <a href="https://yogeshiitm.github.io/projects" target="_blank">Projects</a> and <a href="https://yogeshiitm.github.io/competitions" target="_blank">Hackathons</a>!
-- 💬 How to reach me: yogeshiitm1@gmail.com
+- 💬 How to reach me: yogeshiitm1[at]gmail[dot]com
 - ⚡ My website: [click to view](https://yogeshiitm.github.io)
 
 
@@ -17,7 +17,7 @@ I'm <a href="https://yogeshiitm.github.io" target="_blank">Yogesh</a>, a second-
 - 👯 Let's connect on [LinkedIn](https://www.linkedin.com/in/yogeshiitm/)!
 - 👨🏻‍💻 You can  find my recent projects <a href="https://yogeshiitm.github.io/projects" target="_blank">here</a>!
 - 💬 Ask me about programming or anything related to tech!
-- 📫 How to reach me: yogesh@smail.iitm.ac.in or yogeshiitm1@gmail.com
+- 📫 How to reach me: yogesh[at]smail.iitm.ac.in or yogeshiitm1[at]gmail[dot]com
 - ⚡ Fun fact: I'm silent outside but talkative inside xD 
 -->
 
