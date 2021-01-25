@@ -5,7 +5,7 @@ I'm <a href="https://yogeshiitm.github.io" target="_blank">Yogesh</a>, a second-
 
 - 🔭 I’m currently working with Team TechHD for developing a system to <a href="https://techhd.herokuapp.com/" target="_blank">Prioritize Covid-19 Vaccine Delivery</a>.
 - 🌱 Looking forward to learning new skills!
-- 👯 Connect with me on <a href="https://www.linkedin.com/in/yogeshiitm/" target="_blank">LinkedIn</a>.
+- ⚡ Connect with me on <a href="https://www.linkedin.com/in/yogeshiitm/" target="_blank">LinkedIn</a>.
 - 👨🏻‍💻 Find my recent work here: <a href="https://yogeshiitm.github.io/projects" target="_blank">Projects</a> and <a href="https://yogeshiitm.github.io/competitions" target="_blank">Hackathons</a>!
 - 💬 My website: [Click to view](https://yogeshiitm.github.io)
 <!--
