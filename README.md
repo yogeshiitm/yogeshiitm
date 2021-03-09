@@ -8,6 +8,8 @@ I'm <a href="https://yogeshiitm.github.io" target="_blank">Yogesh</a>, a second-
 - ⚡ Connect with me on <a href="https://www.linkedin.com/in/yogeshiitm/" target="_blank">LinkedIn</a>!
 - 👨🏻‍💻 Find my recent work here: <a href="https://yogeshiitm.github.io/projects" target="_blank">Projects</a> and <a href="https://yogeshiitm.github.io/competitions" target="_blank">Hackathons</a>!
 - 💬 My website: [Click to view](https://yogeshiitm.github.io)
+- ▶️ Youtube channel: [Click to view](https://www.youtube.com/channel/UCcEMOnvFeQaN9fR6F-ZP95Q)
+
 
 
 <!--
