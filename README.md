@@ -3,7 +3,7 @@
 I'm <a href="https://yogeshiitm.github.io" target="_blank">Yogesh</a>, a second-year undergraduate at <a href="https://www.linkedin.com/posts/reachiitm_nirfrankings-nirfrankings2020-nirf2020-activity-6676763324744511488-qeDW" target="_blank">IIT Madras</a>. I am a passionate problem solver and an avid <a href="https://www.hackerrank.com/yogeshiitm" target="_blank">coder</a>. Thank you for visiting my profile!
 
 
-- 🔭 I’m currently working with Team TechHD for developing a system to <a href="https://techhd.herokuapp.com/" target="_blank">Prioritize Covid-19 Vaccine Delivery</a>.
+- 🔭 I’m currently working with Team TechHD for developing a system to <a href="https://github.com/yogeshiitm/EY-Techathon" target="_blank">Prioritize Covid-19 Vaccine Delivery</a>.
 - 🌱 I’m currently learning... well everything 😅
 - ⚡ Connect with me on <a href="https://www.linkedin.com/in/yogeshiitm/" target="_blank">LinkedIn</a>!
 - 👨🏻‍💻 Find my recent work here: <a href="https://yogeshiitm.github.io/projects" target="_blank">Projects</a> and <a href="https://yogeshiitm.github.io/competitions" target="_blank">Hackathons</a>!
