@@ -11,7 +11,6 @@ I'm <a href="https://yogeshiitm.github.io" target="_blank">Yogesh</a>, a second-
 - ▶️ Youtube channel: [Click to view](https://www.youtube.com/channel/UCcEMOnvFeQaN9fR6F-ZP95Q)
 
 
-
 <!--
 - 🔭 I’m currently working with [Team Sahaay](http://cfi.iitm.ac.in/wordpress/index.php/sahaay/) for developing a prototype of an Electronic Travel Aid (ETA) for blind people.
 - 🌱 I'm looking forward to learning new skills!
