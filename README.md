@@ -5,6 +5,9 @@ About
 
 <img src = "coder.gif" style="width:100%;">
 
+<!--
+
+<img src = "github.gif" style="width:100%;">
 ```sh
 class About {
 public:
@@ -12,3 +15,4 @@ public:
   const std::string myInternetName = "yogeshiitm";
 }
 ```
+-->
