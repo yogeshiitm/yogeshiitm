@@ -1,7 +1,6 @@
 
 
-About
------
+
 <img src = "website.gif" style="width:100%;">
 
 
