@@ -1,6 +1,9 @@
 
 
-<!-- <img src = "coder.gif" style="width:100%;"> -->
+About
+-----
+
+<img src = "coder.gif" style="width:100%;">
 
 ```sh
 class About {
